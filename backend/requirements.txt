@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+python-multipart
+pytesseract
+Pillow
+pdfplumber
+PyPDF2 
